@@ -1,0 +1,95 @@
+SUZUKI TOP 4 · PASO A PASO PARA GITHUB PAGES
+=================================================
+
+QUÉ ESTÁS PUBLICANDO
+--------------------
+Una página pública con el Top 4 de familias creativas Meta Ads de Suzuki,
+mayo–julio 2026.
+
+Metodología:
+- Se consolidan copias/variantes técnicas del mismo anuncio.
+- Solo entran familias con mínimo 1.000 leads.
+- Se ordenan por menor CPL.
+
+TOP 4:
+1. Dzire · Reel · Julio
+2. Dzire · Estático · Julio
+3. Dzire · Reel · Mayo
+4. eVitara · Reel · Julio
+
+
+A. PUBLICAR AHORA MISMO
+-----------------------
+1. Descomprime el ZIP.
+2. Entra a GitHub.
+3. Arriba a la derecha: + > New repository.
+4. Nombre sugerido:
+   suzuki-top4-creativos
+5. Déjalo PUBLIC si quieres usar GitHub Pages con GitHub Free.
+6. Crea el repositorio.
+7. Dentro del repositorio: Add file > Upload files.
+8. MUY IMPORTANTE:
+   sube EL CONTENIDO de la carpeta, no una carpeta contenedora adicional.
+
+   En la raíz del repo debe verse:
+   index.html
+   .nojekyll
+   assets/
+
+9. Haz Commit changes.
+10. Ve a Settings > Pages.
+11. En Build and deployment:
+    Source: Deploy from a branch
+12. Branch:
+    main
+13. Folder:
+    / (root)
+14. Save.
+15. Cuando GitHub termine, verás "Your site is live at...".
+
+La URL normalmente tendrá esta forma:
+https://TU-USUARIO.github.io/suzuki-top4-creativos/
+
+
+B. PARA QUE LOS VIDEOS NO DEPENDAN DE FACEBOOK
+-----------------------------------------------
+La página YA funciona: mientras no existan MP4 locales, usa el reproductor
+público de Facebook.
+
+Para máxima estabilidad, consigue los 3 archivos originales de Meta,
+renómbralos así y súbelos a assets/videos/:
+
+dzire-reel-julio.mp4
+dzire-reel-mayo.mp4
+evitara-reel-julio.mp4
+
+No tienes que cambiar código. La página detecta los MP4 automáticamente.
+
+
+C. PARA QUE LA IMAGEN #2 TAMPOCO DEPENDA DEL CDN DE META
+---------------------------------------------------------
+Descarga el creativo original "Leads Jul26 Dzire 1.1",
+renómbralo:
+
+dzire-static-julio.jpg
+
+y súbelo a:
+assets/images/
+
+
+D. CUANDO CAMBIES UN ARCHIVO
+-----------------------------
+1. En GitHub abre la carpeta correcta.
+2. Add file > Upload files.
+3. Sube/reemplaza el archivo.
+4. Commit changes.
+5. GitHub Pages se actualiza automáticamente después del commit.
+
+
+E. IMPORTANTE ANTES DE COMPARTIR
+--------------------------------
+- Abre el link en una ventana de incógnito.
+- Reproduce los tres videos.
+- Revisa la imagen del #2.
+- Pruébalo en celular.
+- Recuerda: el sitio y sus medios son públicos si el repositorio es público.
