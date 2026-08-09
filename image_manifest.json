@@ -1,0 +1,1417 @@
+{
+  "FB_BALENO_CARRUSEL_MAYO": {
+    "ad_id": "120241517065300540",
+    "ad_name": "FB_BALENO_CARRUSEL_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_BALENO_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517065300540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_VIDEO_MAYO": {
+    "ad_id": "120241517065340540",
+    "ad_name": "FB_BALENO_VIDEO_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_BALENO_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517065340540_01.jpg",
+      "ad_120241517065340540_02.jpg",
+      "ad_120241517065340540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_BALENO_ESTATICA_MAYO": {
+    "ad_id": "120241517065330540",
+    "ad_name": "FB_BALENO_ESTATICA_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_BALENO_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517065330540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_CARRUSEL_MAYO - Copia": {
+    "ad_id": "120241517692110540",
+    "ad_name": "FB_BALENO_CARRUSEL_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517692110540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_VIDEO_MAYO - Copia": {
+    "ad_id": "120241517692120540",
+    "ad_name": "FB_BALENO_VIDEO_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517692120540_01.jpg",
+      "ad_120241517692120540_02.jpg",
+      "ad_120241517692120540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_BALENO_ESTATICA_MAYO - Copia": {
+    "ad_id": "120241517692100540",
+    "ad_name": "FB_BALENO_ESTATICA_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517692100540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_REEL_MAYO": {
+    "ad_id": "120241517817850540",
+    "ad_name": "FB_DZIRE_REEL_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_DZIRE_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA_MAYO - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517817850540_01.jpg",
+      "ad_120241517817850540_02.jpg",
+      "ad_120241517817850540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_DZIRE__ESTATICO_MAYO": {
+    "ad_id": "120241517817870540",
+    "ad_name": "FB_DZIRE__ESTATICO_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_DZIRE_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA_MAYO - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517817870540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_CARRUSEL_MAYO": {
+    "ad_id": "120241517817840540",
+    "ad_name": "FB_DZIRE_CARRUSEL_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_DZIRE_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTA_MAYO - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241517817840540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE__ESTATICO_MAYO - Copia": {
+    "ad_id": "120241518173400540",
+    "ad_name": "FB_DZIRE__ESTATICO_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_MAYO - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241518173400540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_REEL_MAYO - Copia": {
+    "ad_id": "120241518173410540",
+    "ad_name": "FB_DZIRE_REEL_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_MAYO - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241518173410540_01.jpg",
+      "ad_120241518173410540_02.jpg",
+      "ad_120241518173410540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_DZIRE_CARRUSEL_MAYO - Copia": {
+    "ad_id": "120241518173420540",
+    "ad_name": "FB_DZIRE_CARRUSEL_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_MAYO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_MAYO - Copia",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120241518173420540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_VIDEO_JUNIO": {
+    "ad_id": "120242354247670540",
+    "ad_name": "FB_BALENO_VIDEO_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTÁ",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242354247670540_01.jpg",
+      "ad_120242354247670540_02.jpg",
+      "ad_120242354247670540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_BALENO_CARRUSEL_JUNIO": {
+    "ad_id": "120242354247700540",
+    "ad_name": "FB_BALENO_CARRUSEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTÁ",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242354247700540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_VIDEO_JUNIO - Copia": {
+    "ad_id": "120242354247640540",
+    "ad_name": "FB_BALENO_VIDEO_JUNIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ADVANTAGE_PAIS",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242354247640540_01.jpg",
+      "ad_120242354247640540_02.jpg",
+      "ad_120242354247640540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_BALENO_CARRUSEL_JUNIO - Copia": {
+    "ad_id": "120242354247680540",
+    "ad_name": "FB_BALENO_CARRUSEL_JUNIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ADVANTAGE_PAIS",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242354247680540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_ESTATICA_JUNIO - Copia": {
+    "ad_id": "120242354247660540",
+    "ad_name": "FB_BALENO_ESTATICA_JUNIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ADVANTAGE_PAIS",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242354247660540_01.png"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_ESTATICA_JUNIO": {
+    "ad_id": "120242354247710540",
+    "ad_name": "FB_BALENO_ESTATICA_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_BOGOTÁ",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242354247710540_01.png"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_CARRUSEL_JUNIO": {
+    "ad_id": "120242355660120540",
+    "ad_name": "FB_DZIRE_CARRUSEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242355660120540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_REEL_JUNIO": {
+    "ad_id": "120242355660140540",
+    "ad_name": "FB_DZIRE_REEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242355660140540_01.jpg",
+      "ad_120242355660140540_02.jpg",
+      "ad_120242355660140540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_DZIRE__ESTATICO_JUNIO": {
+    "ad_id": "120242355660130540",
+    "ad_name": "FB_DZIRE__ESTATICO_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_JUNIO",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120242355660130540_01.png"
+    ],
+    "source_count": 1
+  },
+  "FB_EVITARA_REEL_JUNIO": {
+    "ad_id": "120243098746510540",
+    "ad_name": "FB_EVITARA_REEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_ANTIOQUIA_EVITARA_JUNIO",
+    "adset_name": "EVITARA_AUTOS_ESTILO_DE_VIDA_ANTIOQUIA_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120243098746510540_01.jpg",
+      "ad_120243098746510540_02.jpg",
+      "ad_120243098746510540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_EVITARA_CARRUSEL_JUNIO": {
+    "ad_id": "120243098746520540",
+    "ad_name": "FB_EVITARA_CARRUSEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_ANTIOQUIA_EVITARA_JUNIO",
+    "adset_name": "EVITARA_AUTOS_ESTILO_DE_VIDA_ANTIOQUIA_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120243098746520540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_EVITARA_ESTÁTICO_JUNIO": {
+    "ad_id": "120243098746530540",
+    "ad_name": "FB_EVITARA_ESTÁTICO_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_ANTIOQUIA_EVITARA_JUNIO",
+    "adset_name": "EVITARA_AUTOS_ESTILO_DE_VIDA_ANTIOQUIA_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120243098746530540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_CARRUSEL_JUNIO": {
+    "ad_id": "120243099071590540",
+    "ad_name": "FB_ACROSS_CARRUSEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_ACROSS_JUNIO",
+    "adset_name": "ACROSS_AUTOS_ESTILO_DE_VIDA_PAIS_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120243099071590540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_ESTATICO_JUNIO": {
+    "ad_id": "120243099071600540",
+    "ad_name": "FB_ACROSS_ESTATICO_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_ACROSS_JUNIO",
+    "adset_name": "ACROSS_AUTOS_ESTILO_DE_VIDA_PAIS_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120243099071600540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_REEL_JUNIO": {
+    "ad_id": "120243099071610540",
+    "ad_name": "FB_ACROSS_REEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_ACROSS_JUNIO",
+    "adset_name": "ACROSS_AUTOS_ESTILO_DE_VIDA_PAIS_JUNIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120243099071610540_01.jpg",
+      "ad_120243099071610540_02.jpg",
+      "ad_120243099071610540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_HIBRIDO_VIDEO_MAYO": {
+    "ad_id": "120244257406750314",
+    "ad_name": "FB_HIBRIDO_VIDEO_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_SWIFT_MAYO",
+    "adset_name": "SWIFTH_PIONEROS_BOGOTA_2026 - Copia",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120244257406750314_01.jpg",
+      "ad_120244257406750314_02.jpg",
+      "ad_120244257406750314_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_HIBRIDO_CARRUSEL_MAYO": {
+    "ad_id": "120244257406730314",
+    "ad_name": "FB_HIBRIDO_CARRUSEL_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_SWIFT_MAYO",
+    "adset_name": "SWIFTH_PIONEROS_BOGOTA_2026 - Copia",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120244257406730314_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_ESTATICO_MAYO": {
+    "ad_id": "120244257406740314",
+    "ad_name": "FB_HIBRIDO_ESTATICO_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_SWIFT_MAYO",
+    "adset_name": "SWIFTH_PIONEROS_BOGOTA_2026 - Copia",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120244257406740314_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_CARRUSEL_JULIO": {
+    "ad_id": "120244132245680540",
+    "ad_name": "FB_BALENO_CARRUSEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132245680540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_VIDEO_JULIO": {
+    "ad_id": "120244132245650540",
+    "ad_name": "FB_BALENO_VIDEO_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132245650540_01.jpg",
+      "ad_120244132245650540_02.jpg",
+      "ad_120244132245650540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_BALENO_ESTATICA_JULIO": {
+    "ad_id": "120244132245640540",
+    "ad_name": "FB_BALENO_ESTATICA_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132245640540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_ESTATICA_JULIO - Copia": {
+    "ad_id": "120244132245660540",
+    "ad_name": "FB_BALENO_ESTATICA_JULIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ADVANTAGE_BOGOTA",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132245660540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_BALENO_VIDEO_JULIO - Copia": {
+    "ad_id": "120244132245600540",
+    "ad_name": "FB_BALENO_VIDEO_JULIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ADVANTAGE_BOGOTA",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132245600540_01.jpg",
+      "ad_120244132245600540_02.jpg",
+      "ad_120244132245600540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_BALENO_CARRUSEL_JULIO - Copia": {
+    "ad_id": "120244132245630540",
+    "ad_name": "FB_BALENO_CARRUSEL_JULIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_BALENO_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ADVANTAGE_BOGOTA",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132245630540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_CARRUSEL_JULIO": {
+    "ad_id": "120244132995930540",
+    "ad_name": "FB_DZIRE_CARRUSEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132995930540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_ESTATICO_JULIO": {
+    "ad_id": "120244132995900540",
+    "ad_name": "FB_DZIRE_ESTATICO_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132995900540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_DZIRE_REEL_JULIO": {
+    "ad_id": "120244132995920540",
+    "ad_name": "FB_DZIRE_REEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_DZIRE_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_PAIS_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244132995920540_01.jpg",
+      "ad_120244132995920540_02.jpg",
+      "ad_120244132995920540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_EVITARA_REEL_JULIO": {
+    "ad_id": "120244133267210540",
+    "ad_name": "FB_EVITARA_REEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_EVITARA_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244133267210540_01.jpg",
+      "ad_120244133267210540_02.jpg",
+      "ad_120244133267210540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_EVITARA_CARRUSEL_JULIO": {
+    "ad_id": "120244133267220540",
+    "ad_name": "FB_EVITARA_CARRUSEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_EVITARA_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244133267220540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_EVITARA_ESTATICO_JULIO": {
+    "ad_id": "120244133267250540",
+    "ad_name": "FB_EVITARA_ESTATICO_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_EVITARA_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244133267250540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_ESTATICO_JULIO": {
+    "ad_id": "120244133703230540",
+    "ad_name": "FB_ACROSS_ESTATICO_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_ACROSS_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244133703230540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_CARRUSEL_JULIO": {
+    "ad_id": "120244133703240540",
+    "ad_name": "FB_ACROSS_CARRUSEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_ACROSS_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244133703240540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_REEL_JULIO": {
+    "ad_id": "120244133703250540",
+    "ad_name": "FB_ACROSS_REEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_ACROSS_JULIO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_JULIO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120244133703250540_01.jpg",
+      "ad_120244133703250540_02.jpg",
+      "ad_120244133703250540_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_FRONX_VIDEO_MAYO": {
+    "ad_id": "120244793369280687",
+    "ad_name": "1FB_FRONX_VIDEO_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES_BOGOTA - Copia",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244793369280687_01.jpg",
+      "ad_120244793369280687_02.jpg",
+      "ad_120244793369280687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_FRONX_CARRUSEL_MAYO": {
+    "ad_id": "120244793369300687",
+    "ad_name": "1FB_FRONX_CARRUSEL_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES_BOGOTA - Copia",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244793369300687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_FRONX_ESTATICA_MAYO": {
+    "ad_id": "120244793369260687",
+    "ad_name": "FB_FRONX_ESTATICA_MAYO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES_BOGOTA - Copia",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244793369260687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_MAYO - Copia": {
+    "ad_id": "120244793369290687",
+    "ad_name": "1FB_FRONX_VIDEO_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_BOGOTÁ_FRONX_ABRIL_BOGOTA_ADVANTAGE - Copia",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244793369290687_01.jpg",
+      "ad_120244793369290687_02.jpg",
+      "ad_120244793369290687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_FRONX_ESTATICA_MAYO - Copia": {
+    "ad_id": "120244793369310687",
+    "ad_name": "FB_FRONX_ESTATICA_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_BOGOTÁ_FRONX_ABRIL_BOGOTA_ADVANTAGE - Copia",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244793369310687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_CARRUSEL_MAYO - Copia": {
+    "ad_id": "120244793369270687",
+    "ad_name": "1FB_FRONX_CARRUSEL_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_BOGOTÁ_FRONX_ABRIL_BOGOTA_ADVANTAGE - Copia",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244793369270687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_CARRUSEL_MAYO - Copia": {
+    "ad_id": "120244257692860314",
+    "ad_name": "FB_HIBRIDO_CARRUSEL_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SWIFT_MAYO",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026 - Copia",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120244257692860314_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_ESTATICO_MAYO - Copia": {
+    "ad_id": "120244257692870314",
+    "ad_name": "FB_HIBRIDO_ESTATICO_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SWIFT_MAYO",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026 - Copia",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120244257692870314_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_VIDEO_MAYO - Copia": {
+    "ad_id": "120244257692890314",
+    "ad_name": "FB_HIBRIDO_VIDEO_MAYO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SWIFT_MAYO",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026 - Copia",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120244257692890314_01.jpg",
+      "ad_120244257692890314_02.jpg",
+      "ad_120244257692890314_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_FRONX_ESTATICA_MAYO_CA": {
+    "ad_id": "120244378079720687",
+    "ad_name": "FB_FRONX_ESTATICA_MAYO_CA",
+    "campaign_name": "FB_CAMPAÑA_ADICIONAL_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_ABRIL_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244378079720687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_MAYO_CA": {
+    "ad_id": "120244378079700687",
+    "ad_name": "1FB_FRONX_VIDEO_MAYO_CA",
+    "campaign_name": "FB_CAMPAÑA_ADICIONAL_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_ABRIL_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244378079700687_01.jpg",
+      "ad_120244378079700687_02.jpg",
+      "ad_120244378079700687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_FRONX_CARRUSEL_MAYO_CA": {
+    "ad_id": "120244378079680687",
+    "ad_name": "1FB_FRONX_CARRUSEL_MAYO_CA",
+    "campaign_name": "FB_CAMPAÑA_ADICIONAL_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_ABRIL_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244378079680687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_MAYO_CALLE72": {
+    "ad_id": "120244783236890687",
+    "ad_name": "1FB_FRONX_VIDEO_MAYO_CALLE72",
+    "campaign_name": "CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_ABRIL_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244783236890687_01.jpg",
+      "ad_120244783236890687_02.jpg",
+      "ad_120244783236890687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_FRONX_ESTATICA_MAYO_CALLE72": {
+    "ad_id": "120244783236900687",
+    "ad_name": "FB_FRONX_ESTATICA_MAYO_CALLE72",
+    "campaign_name": "CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_ABRIL_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244783236900687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_CARRUSEL_MAYO_CALLE72": {
+    "ad_id": "120244783236920687",
+    "ad_name": "1FB_FRONX_CARRUSEL_MAYO_CALLE72",
+    "campaign_name": "CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SUV_FRONX_MAYO",
+    "adset_name": "FB_FRONX_PAIS_FRONX_ABRIL_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120244783236920687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_CARRUSEL_AGOSTO": {
+    "ad_id": "120245033621440540",
+    "ad_name": "FB_ACROSS_CARRUSEL_AGOSTO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_ACROSS_AGOSTO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_AGOSTO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120245033621440540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_ESTATICO_AGOSTO": {
+    "ad_id": "120245033621460540",
+    "ad_name": "FB_ACROSS_ESTATICO_AGOSTO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_ACROSS_AGOSTO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_AGOSTO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120245033621460540_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_ACROSS_REEL_AGOSTO": {
+    "ad_id": "120245033621470540",
+    "ad_name": "FB_ACROSS_REEL_AGOSTO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_DEMOGRAFICO_ACROSS_AGOSTO_2026",
+    "adset_name": "SECUNDARIOS_AUTOS_ESTILO_DE_VIDA_AGOSTO",
+    "account_id": "act_240742474976865",
+    "files": [
+      "ad_120245033621470540_01.jpg",
+      "ad_120245033621470540_02.jpg",
+      "ad_120245033621470540_03.jpg",
+      "ad_120245033621470540_04.jpg",
+      "ad_120245033621470540_05.jpg"
+    ],
+    "source_count": 5
+  },
+  "FB_HIBRIDO_CARRUSEL_JUNIO": {
+    "ad_id": "120245180387990314",
+    "ad_name": "FB_HIBRIDO_CARRUSEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAÍS_SWIFT_JUNIO",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120245180387990314_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_VIDEO_JUNIO": {
+    "ad_id": "120245180387950314",
+    "ad_name": "FB_HIBRIDO_VIDEO_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAÍS_SWIFT_JUNIO",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120245180387950314_01.jpg",
+      "ad_120245180387950314_02.jpg",
+      "ad_120245180387950314_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_HIBRIDO_ESTATICO_JUNIO": {
+    "ad_id": "120245180387970314",
+    "ad_name": "FB_HIBRIDO_ESTATICO_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAÍS_SWIFT_JUNIO",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120245180387970314_01.png"
+    ],
+    "source_count": 1
+  },
+  "FB_FRONX_ESTATICA_JUNIO": {
+    "ad_id": "120245748795810687",
+    "ad_name": "FB_FRONX_ESTATICA_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JUNIO - Copia",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120245748795810687_01.png"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_JUNIO": {
+    "ad_id": "120245748795830687",
+    "ad_name": "1FB_FRONX_VIDEO_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JUNIO - Copia",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120245748795830687_01.jpg",
+      "ad_120245748795830687_02.jpg",
+      "ad_120245748795830687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_FRONX_CARRUSEL_JUNIO": {
+    "ad_id": "120245748795880687",
+    "ad_name": "1FB_FRONX_CARRUSEL_JUNIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JUNIO - Copia",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120245748795880687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_FRONX_ESTATICA_JUNIO - Copia": {
+    "ad_id": "120245748795820687",
+    "ad_name": "FB_FRONX_ESTATICA_JUNIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JUNIO - Copia",
+    "adset_name": "FB_FRONX_FRONX_PAIS_ADVANTAGE_JUNIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120245748795820687_01.png"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_CARRUSEL_JUNIO - Copia": {
+    "ad_id": "120245748795800687",
+    "ad_name": "1FB_FRONX_CARRUSEL_JUNIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JUNIO - Copia",
+    "adset_name": "FB_FRONX_FRONX_PAIS_ADVANTAGE_JUNIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120245748795800687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_JUNIO - Copia": {
+    "ad_id": "120245748795870687",
+    "ad_name": "1FB_FRONX_VIDEO_JUNIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JUNIO - Copia",
+    "adset_name": "FB_FRONX_FRONX_PAIS_ADVANTAGE_JUNIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120245748795870687_01.jpg",
+      "ad_120245748795870687_02.jpg",
+      "ad_120245748795870687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_SCROSS_CARRUSEL _PRECIO_SCROOS": {
+    "ad_id": "120250869088390414",
+    "ad_name": "FB_SCROSS_CARRUSEL _PRECIO_SCROOS",
+    "campaign_name": "FB_CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SCROSS_JULIO_2026",
+    "adset_name": "1FB_CALLE72_LEADS_ADVANTAGE_BOGOTÁ_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250869088390414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_SCROSS_ESTATICO_PRECIO_SCROOS": {
+    "ad_id": "120248135147230414",
+    "ad_name": "1FB_SCROSS_ESTATICO_PRECIO_SCROOS",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JUNIO",
+    "adset_name": "FB_CBO_LEADS_INTERESES_PAIS_SCROSSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120248135147230414_01.png"
+    ],
+    "source_count": 1
+  },
+  "1FB_SCROSS_VIDEO_SCROOS_JULIO - Copia 2": {
+    "ad_id": "120248135147200414",
+    "ad_name": "1FB_SCROSS_VIDEO_SCROOS_JULIO - Copia 2",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JUNIO",
+    "adset_name": "FB_CBO_LEADS_INTERESES_PAIS_SCROSSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120248135147200414_01.jpg",
+      "ad_120248135147200414_02.jpg",
+      "ad_120248135147200414_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_SCROSS_ESTATICO_PRECIO_SCROOS - Copia": {
+    "ad_id": "120246950845140414",
+    "ad_name": "1FB_SCROSS_ESTATICO_PRECIO_SCROOS - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_MAYO",
+    "adset_name": "FB_CBO_LEADS_INTERESES_PAÍS_SCROSS - Copia",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120246950845140414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_SCROSS_CARRUSEL _PRECIO_SCROOS - Copia": {
+    "ad_id": "120248135147170414",
+    "ad_name": "FB_SCROSS_CARRUSEL _PRECIO_SCROOS - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JUNIO",
+    "adset_name": "1FB_CBO_LEADS_ADVANTAGE_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120248135147170414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_SCROSS_VIDEO_SCROOS_JULIO - Copia 3": {
+    "ad_id": "120248135147180414",
+    "ad_name": "1FB_SCROSS_VIDEO_SCROOS_JULIO - Copia 3",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JUNIO",
+    "adset_name": "1FB_CBO_LEADS_ADVANTAGE_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120248135147180414_01.jpg",
+      "ad_120248135147180414_02.jpg",
+      "ad_120248135147180414_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "CALLE72_SCROSS_VIDEO_SCROOS_JULIO - Copia 3": {
+    "ad_id": "120250869088420414",
+    "ad_name": "CALLE72_SCROSS_VIDEO_SCROOS_JULIO - Copia 3",
+    "campaign_name": "FB_CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SCROSS_JULIO_2026",
+    "adset_name": "1FB_CALLE72_LEADS_ADVANTAGE_BOGOTÁ_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250869088420414_01.jpg",
+      "ad_120250869088420414_02.jpg",
+      "ad_120250869088420414_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "CALLE72_SCROSS_ESTATICO_PRECIO_SCROOS - Copia": {
+    "ad_id": "120246923787190414",
+    "ad_name": "CALLE72_SCROSS_ESTATICO_PRECIO_SCROOS - Copia",
+    "campaign_name": "FB_CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SCROSS_MAYO",
+    "adset_name": "1FB_CALLE72_LEADS_ADVANTAGE_BOGOTÁ_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120246923787190414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_SCROSS_VIDEO_SCROOS": {
+    "ad_id": "120250865932500414",
+    "ad_name": "1FB_SCROSS_VIDEO_SCROOS",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JULIO_2026",
+    "adset_name": "FB_CBO_LEADS_INTERESES_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250865932500414_01.jpg",
+      "ad_120250865932500414_02.jpg",
+      "ad_120250865932500414_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_SCROSS_VIDEO_SCROOS - Copia": {
+    "ad_id": "120250865932490414",
+    "ad_name": "1FB_SCROSS_VIDEO_SCROOS - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JULIO_2026",
+    "adset_name": "1FB_CBO_LEADS_ADVANTAGE_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250865932490414_01.jpg",
+      "ad_120250865932490414_02.jpg",
+      "ad_120250865932490414_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_PRECIOS": {
+    "ad_id": "120248177462580166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_PRECIOS",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248177462580166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_VIDEO_PRECIO_2026": {
+    "ad_id": "120252877804510166",
+    "ad_name": "JIMNY_5PUERTAS_VIDEO_PRECIO_2026",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_JULIO_2026",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120252877804510166_01.jpg",
+      "ad_120252877804510166_02.jpg",
+      "ad_120252877804510166_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_ESTATICO": {
+    "ad_id": "120248177462570166",
+    "ad_name": "JIMNY_5PUERTAS_ESTATICO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248177462570166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia": {
+    "ad_id": "120248178299350166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178299350166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia": {
+    "ad_id": "120252877804550166",
+    "ad_name": "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_JULIO_2026",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120252877804550166_01.jpg",
+      "ad_120252877804550166_02.jpg",
+      "ad_120252877804550166_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_ESTATICO - Copia": {
+    "ad_id": "120248178299370166",
+    "ad_name": "JIMNY_5PUERTAS_ESTATICO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178299370166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_ESTATICO_JULIO": {
+    "ad_id": "120247491176220314",
+    "ad_name": "FB_HIBRIDO_ESTATICO_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SWIFT_JULIO_2026",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120247491176220314_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_CARRUSEL_JULIO": {
+    "ad_id": "120247491176230314",
+    "ad_name": "FB_HIBRIDO_CARRUSEL_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SWIFT_JULIO_2026",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120247491176230314_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_HIBRIDO_VIDEO_JULIO": {
+    "ad_id": "120247491176200314",
+    "ad_name": "FB_HIBRIDO_VIDEO_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SWIFT_JULIO_2026",
+    "adset_name": "SWIFTH_PIONEROS_PAIS_2026",
+    "account_id": "act_494881559927155",
+    "files": [
+      "ad_120247491176200314_01.jpg",
+      "ad_120247491176200314_02.jpg",
+      "ad_120247491176200314_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_ESTATICO_CUOTA": {
+    "ad_id": "120252877804530166",
+    "ad_name": "JIMNY_5PUERTAS_ESTATICO_CUOTA",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_JULIO_2026",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120252877804530166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 2": {
+    "ad_id": "120248178393870166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 2",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178393870166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 2": {
+    "ad_id": "120248178393850166",
+    "ad_name": "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 2",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178393850166_01.jpg",
+      "ad_120248178393850166_02.jpg",
+      "ad_120248178393850166_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 3": {
+    "ad_id": "120248177462560166",
+    "ad_name": "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 3",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248177462560166_01.jpg",
+      "ad_120248177462560166_02.jpg",
+      "ad_120248177462560166_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 3": {
+    "ad_id": "120248177462530166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 3",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248177462530166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_ESTATICO_CUOTA - Copia": {
+    "ad_id": "120252877804560166",
+    "ad_name": "JIMNY_5PUERTAS_ESTATICO_CUOTA - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_JULIO_2026",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120252877804560166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 4": {
+    "ad_id": "120248178299340166",
+    "ad_name": "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 4",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178299340166_01.jpg",
+      "ad_120248178299340166_02.jpg",
+      "ad_120248178299340166_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_ESTATICO_CUOTA - Copia 2": {
+    "ad_id": "120248178299310166",
+    "ad_name": "JIMNY_5PUERTAS_ESTATICO_CUOTA - Copia 2",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178299310166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 4": {
+    "ad_id": "120248178299320166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 4",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178299320166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_ESTATICO_CUOTA - Copia 3": {
+    "ad_id": "120248178393880166",
+    "ad_name": "JIMNY_5PUERTAS_ESTATICO_CUOTA - Copia 3",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178393880166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 5": {
+    "ad_id": "120248178393900166",
+    "ad_name": "JIMNY_5PUERTAS_VIDEO_PRECIO_2026 - Copia 5",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178393900166_01.jpg",
+      "ad_120248178393900166_02.jpg",
+      "ad_120248178393900166_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 5": {
+    "ad_id": "120248178393860166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_PRECIOS - Copia 5",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178393860166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_ESTATICO - Copia 2": {
+    "ad_id": "120248178393890166",
+    "ad_name": "JIMNY_5PUERTAS_ESTATICO - Copia 2",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_MAYO",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026 - Copia",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120248178393890166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_JULIO": {
+    "ad_id": "120248305206380687",
+    "ad_name": "1FB_FRONX_VIDEO_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JULIO_2026 - Copia",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES_JULIIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305206380687_01.jpg",
+      "ad_120248305206380687_02.jpg",
+      "ad_120248305206380687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "FB_FRONX_ESTATICA_JULIO": {
+    "ad_id": "120248305206370687",
+    "ad_name": "FB_FRONX_ESTATICA_JULIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JULIO_2026 - Copia",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES_JULIIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305206370687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_CARRUSEL_JULIIO": {
+    "ad_id": "120248305206340687",
+    "ad_name": "1FB_FRONX_CARRUSEL_JULIIO",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SUV_FRONX_JULIO_2026 - Copia",
+    "adset_name": "FB_FRONX_PAIS_FRONX_INTERESES_JULIIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305206340687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_FRONX_ESTATICA_JULIO - Copia": {
+    "ad_id": "120248305191660687",
+    "ad_name": "FB_FRONX_ESTATICA_JULIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_SUV_FRONX_JULIO_2026",
+    "adset_name": "FB_FRONX_BOGOTÁ_FRONX_ADVANTAGE_JULIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305191660687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_JULIO - Copia": {
+    "ad_id": "120248305191670687",
+    "ad_name": "1FB_FRONX_VIDEO_JULIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_SUV_FRONX_JULIO_2026",
+    "adset_name": "FB_FRONX_BOGOTÁ_FRONX_ADVANTAGE_JULIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305191670687_01.jpg",
+      "ad_120248305191670687_02.jpg",
+      "ad_120248305191670687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_FRONX_CARRUSEL_JULIIO - Copia": {
+    "ad_id": "120248305191680687",
+    "ad_name": "1FB_FRONX_CARRUSEL_JULIIO - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTA_SUV_FRONX_JULIO_2026",
+    "adset_name": "FB_FRONX_BOGOTÁ_FRONX_ADVANTAGE_JULIO",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305191680687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_FRONX_ESTATICA_CALLE72": {
+    "ad_id": "120248305541150687",
+    "ad_name": "FB_FRONX_ESTATICA_CALLE72",
+    "campaign_name": "CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SUV_FRONX_JULIO",
+    "adset_name": "FB_FRONX_FRONX_JULIO_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305541150687_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_FRONX_VIDEO_CALLE72": {
+    "ad_id": "120248305541160687",
+    "ad_name": "1FB_FRONX_VIDEO_CALLE72",
+    "campaign_name": "CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SUV_FRONX_JULIO",
+    "adset_name": "FB_FRONX_FRONX_JULIO_BOGOTA_ADVANTAGE",
+    "account_id": "act_1948135309027834",
+    "files": [
+      "ad_120248305541160687_01.jpg",
+      "ad_120248305541160687_02.jpg",
+      "ad_120248305541160687_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_CUOTA": {
+    "ad_id": "120252877804520166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_CUOTA",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_JULIO_2026",
+    "adset_name": "JIMNY_5_PUERTAS_ACTUALIZADO_2026",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120252877804520166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "JIMNY_5PUERTAS_CARRUSEL_CUOTA - Copia": {
+    "ad_id": "120252877804540166",
+    "ad_name": "JIMNY_5PUERTAS_CARRUSEL_CUOTA - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_JIMNY_5_JULIO_2026",
+    "adset_name": "JIMNY_5_PUERTAS_ADVANTAGE_2026",
+    "account_id": "act_1201223597510337",
+    "files": [
+      "ad_120252877804540166_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_SCROSS_VIDEO_SCROOS_JUNIO_2": {
+    "ad_id": "120249784973740414",
+    "ad_name": "1FB_SCROSS_VIDEO_SCROOS_JUNIO_2",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_BOGOTÁ_SCROSS_JUNIO",
+    "adset_name": "FB_CBO_LEADS_INTERESES_BOGOTÁ_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120249784973740414_01.jpg",
+      "ad_120249784973740414_02.jpg",
+      "ad_120249784973740414_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_SCROSS_VIDEO_SCROOS_JUNIO_2 - Copia": {
+    "ad_id": "120249785124470414",
+    "ad_name": "1FB_SCROSS_VIDEO_SCROOS_JUNIO_2 - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JUNIO",
+    "adset_name": "FB_CBO_LEADS_INTERESES_PAIS_SCROSSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120249785124470414_01.jpg",
+      "ad_120249785124470414_02.jpg",
+      "ad_120249785124470414_03.jpg"
+    ],
+    "source_count": 3
+  },
+  "1FB_SCROSS_ESTATICO_SCROOS": {
+    "ad_id": "120250865932440414",
+    "ad_name": "1FB_SCROSS_ESTATICO_SCROOS",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JULIO_2026",
+    "adset_name": "FB_CBO_LEADS_INTERESES_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250865932440414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_SCROSS_CARRUSEL _SCROOS": {
+    "ad_id": "120250865932480414",
+    "ad_name": "FB_SCROSS_CARRUSEL _SCROOS",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JULIO_2026",
+    "adset_name": "FB_CBO_LEADS_INTERESES_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250865932480414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "1FB_SCROSS_ESTATICO_SCROOS - Copia": {
+    "ad_id": "120250865932470414",
+    "ad_name": "1FB_SCROSS_ESTATICO_SCROOS - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JULIO_2026",
+    "adset_name": "1FB_CBO_LEADS_ADVANTAGE_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250865932470414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "FB_SCROSS_CARRUSEL _SCROOS - Copia": {
+    "ad_id": "120250865932450414",
+    "ad_name": "FB_SCROSS_CARRUSEL _SCROOS - Copia",
+    "campaign_name": "FB_CBO_LEADS_COLDTRAFFIC_PAIS_SCROSS_JULIO_2026",
+    "adset_name": "1FB_CBO_LEADS_ADVANTAGE_PAIS_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250865932450414_01.jpg"
+    ],
+    "source_count": 1
+  },
+  "CALLE72_SCROSS_ESTATICO_PRECIO_SCROOS": {
+    "ad_id": "120250869088410414",
+    "ad_name": "CALLE72_SCROSS_ESTATICO_PRECIO_SCROOS",
+    "campaign_name": "FB_CALLE72_LEADS_COLDTRAFFIC_BOGOTÁ_SCROSS_JULIO_2026",
+    "adset_name": "1FB_CALLE72_LEADS_ADVANTAGE_BOGOTÁ_SCROSS",
+    "account_id": "act_2742584672582134",
+    "files": [
+      "ad_120250869088410414_01.jpg"
+    ],
+    "source_count": 1
+  }
+}
