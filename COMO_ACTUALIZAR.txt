@@ -1,0 +1,25 @@
+ACTUALIZAR EL GITHUB QUE YA TIENES
+==================================
+
+No crees otro repositorio.
+
+1. Entra a tu repositorio "suzuki".
+2. Haz clic sobre index.html.
+3. Arriba a la derecha busca el menú de tres puntos (...) o el icono de papelera
+   y elimina el index.html actual. Confirma el commit.
+   O más fácil:
+4. Vuelve a la raíz del repo.
+5. Add file > Upload files.
+6. Sube el NUEVO index.html de este paquete.
+7. GitHub reconocerá que reemplaza el archivo con el mismo nombre.
+8. Commit changes.
+9. Espera 1–3 minutos y recarga tu URL de GitHub Pages con Cmd+Shift+R.
+
+NO CAMBIES Settings > Pages. Ya está publicado.
+
+QUÉ CAMBIA:
+- Top 4 se mantiene arriba.
+- Abajo aparecen TODOS los 126 creativos.
+- Los videos dejan de usar el reproductor de Facebook que mostraba
+  "Video no disponible".
+- En su lugar verás el preview real + botón ▶.
