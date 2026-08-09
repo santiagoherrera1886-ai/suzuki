@@ -56,6 +56,14 @@ input,select{min-width:0;background:#fff;border:1px solid var(--line);border-rad
 .footer{text-align:center;color:#7d8995;font-size:11px;padding:20px}
 @media(max-width:1050px){.topgrid{grid-template-columns:1fr}.toolbar{grid-template-columns:1fr 1fr}.kpis{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:700px){.topcard{grid-template-columns:1fr}.topmedia{min-height:330px}.detailgrid{grid-template-columns:1fr}.toolbar{position:static}.main{padding:18px 12px}}
+
+.lazyVideo{position:relative;width:100%;height:100%;background:#000;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.lazyVideo>img{width:100%;height:100%;object-fit:cover;display:block}
+.lazyPlay{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:64px;height:64px;border-radius:999px;border:2px solid rgba(255,255,255,.9);background:rgba(8,24,39,.78);color:#fff;font-size:24px;font-weight:800;cursor:pointer;z-index:5;box-shadow:0 6px 22px rgba(0,0,0,.28)}
+.lazyPlay:hover{transform:translate(-50%,-50%) scale(1.04)}
+.lazyVideo video{width:100%;height:100%;object-fit:contain;background:#000;display:block}
+.videoUnavailable{display:flex;align-items:center;justify-content:center;text-align:center;width:100%;height:100%;min-height:180px;background:#e8eef4;color:#52657a;padding:20px;font-weight:700}
+
 </style>
 </head>
 <body>
@@ -110,18 +118,91 @@ function hdImageUrl(c){
  const m=hdManifestMatches(c).find(e=>e.files&&e.files.length);
  return m ? HD_IMAGE_RELEASE_BASE+encodeURIComponent(m.files[0]) : '';
 }
-function videoSources(c){
- const out=[];
- // Preferimos archivo relativo del repo si existe; luego Release videos-v1.
- if(c.local_video) out.push(c.local_video);
- if(c.release_video && !out.includes(c.release_video)) out.push(c.release_video);
- return out;
+
+const KNOWN_VIDEO_FILES=new Set(["across_jul_1x1.mp4", "across_jul_9x16.mp4", "baleno_jul_1x1.mp4", "baleno_jul_9x16.mp4", "dzire_jul_1x1.mp4", "dzire_jul_9x16.mp4", "evitara_jul_1x1.mp4", "evitara_jul_9x16.mp4", "fronx_jul_1x1.mp4", "fronx_jul_9x16.mp4", "fronx_jul_cll72_1x1.mp4", "fronx_jul_cll72_9x16.mp4", "fronx_jun_1x1.mp4", "fronx_jun_9x16.mp4", "fronx_may_1x1.mp4", "fronx_may_9x16.mp4", "jimny5p_jul_1x1.mp4", "jimny5p_jul_9x16.mp4", "jimny5p_jun_1x1.mp4", "jimny5p_jun_9x16.mp4", "jimny5p_may_1x1.mp4", "jimny5p_may_9x16.mp4", "scross_jul_1x1.mp4", "scross_jul_9x16.mp4", "scross_jul_cll72_1x1.mp4", "scross_jul_cll72_9x16.mp4", "scross_jun_1x1.mp4", "scross_jun_9x16.mp4", "scross_may_1x1.mp4", "scross_may_9x16.mp4", "swift_jul_1x1.mp4", "swift_jul_9x16.mp4", "swift_jun_1x1.mp4", "swift_jun_9x16.mp4", "swift_may_1x1.mp4", "swift_may_9x16.mp4"]);
+
+function releaseFilenameFromUrl(url){
+ try{return decodeURIComponent(String(url||'').split('/').pop().split('?')[0]);}catch(e){return '';}
 }
-function videoMarkup(c,poster,extraTag){
- const sources=videoSources(c);
- if(!sources.length) return '';
- return `<video controls playsinline preload="metadata" poster="${esc(poster||'')}" style="width:100%;height:100%;object-fit:contain;background:#000">${sources.map(src=>`<source src="${esc(src)}" type="video/mp4">`).join('')}Tu navegador no pudo reproducir el video.</video>${extraTag||''}`;
+function preferredVideoFile(c){
+ const model=String(c.model||'').toLowerCase();
+ const month=String(c.month||'');
+ const name=String(c.ad_name||'').toLowerCase();
+
+ let file='';
+ if(model==='across' && month==='2026-07') file='across_jul_1x1.mp4';
+ else if(model==='baleno' && month==='2026-07') file='baleno_jul_1x1.mp4';
+ else if(model==='dzire' && month==='2026-07') file='dzire_jul_1x1.mp4';
+ else if(model==='evitara' && month==='2026-07') file='evitara_jul_1x1.mp4';
+ else if(model==='fronx'){
+   if(month==='2026-05') file='fronx_may_1x1.mp4';
+   else if(month==='2026-06') file='fronx_jun_1x1.mp4';
+   else if(month==='2026-07') file=name.includes('calle72')?'fronx_jul_cll72_1x1.mp4':'fronx_jul_1x1.mp4';
+ }
+ else if(model==='jimny 5p'){
+   if(month==='2026-05') file='jimny5p_may_1x1.mp4';
+   else if(month==='2026-06') file='jimny5p_jun_1x1.mp4';
+   else if(month==='2026-07') file='jimny5p_jul_1x1.mp4';
+ }
+ else if(model==='s-cross'){
+   if(month==='2026-05') file='scross_may_1x1.mp4';
+   else if(month==='2026-06') file='scross_jun_1x1.mp4';
+   else if(month==='2026-07') file=name.includes('calle72')?'scross_jul_cll72_1x1.mp4':'scross_jul_1x1.mp4';
+ }
+ else if(model==='swift híbrido'){
+   if(month==='2026-05') file='swift_may_1x1.mp4';
+   else if(month==='2026-06') file='swift_jun_1x1.mp4';
+   else if(month==='2026-07') file='swift_jul_1x1.mp4';
+ }
+
+ if(file && KNOWN_VIDEO_FILES.has(file)) return file;
+
+ const mapped=releaseFilenameFromUrl(c.release_video);
+ return KNOWN_VIDEO_FILES.has(mapped)?mapped:'';
 }
+function bestOriginalImage(c){
+ const assets=(c.assets||[]).filter(a=>a && a.url && !a.reference_only && !/facebook\.com\/.*\/videos\//i.test(a.url));
+ if(!assets.length) return '';
+ assets.sort((a,b)=>((Number(b.width)||0)*(Number(b.height)||0))-((Number(a.width)||0)*(Number(a.height)||0)));
+ return assets[0].url||'';
+}
+function bestPoster(c){
+ const hd=hdImageUrl(c);
+ if(hd) return hd;
+ const original=bestOriginalImage(c);
+ if(original) return original;
+ const embedded=allImageFiles(c).map(embeddedImageUrl).find(Boolean);
+ if(embedded) return embedded;
+ const a=c.assets&&c.assets[0];
+ return a?(a.thumbnail||''):'';
+}
+function videoUrl(c){
+ const file=preferredVideoFile(c);
+ return file ? VIDEO_RELEASE_BASE+encodeURIComponent(file) : '';
+}
+function lazyVideoMarkup(c,poster,extraTag){
+ const src=videoUrl(c);
+ if(!src){
+   if(poster) return `<div class="lazyVideo"><img loading="lazy" src="${esc(poster)}" alt="${esc(c.ad_name)}">${extraTag||''}<span class="videoPlay">▶</span></div>`;
+   return `<div class="videoUnavailable">MP4 no disponible para este creativo</div>`;
+ }
+ const safePoster=poster||'';
+ return `<div class="lazyVideo" data-src="${esc(src)}" data-poster="${esc(safePoster)}" data-name="${esc(c.ad_name)}">${safePoster?`<img loading="lazy" src="${esc(safePoster)}" alt="${esc(c.ad_name)}">`:''}<button class="lazyPlay" type="button" onclick="activateVideo(this.parentElement)" aria-label="Reproducir video">▶</button>${extraTag||''}</div>`;
+}
+function activateVideo(box){
+ const src=box.dataset.src||'';
+ const poster=box.dataset.poster||'';
+ const name=box.dataset.name||'Video';
+ if(!src) return;
+ box.innerHTML=`<video controls autoplay playsinline preload="auto" ${poster?`poster="${esc(poster)}"`:''}><source src="${esc(src)}" type="video/mp4">Tu navegador no pudo reproducir el video.</video>`;
+ const v=box.querySelector('video');
+ v.addEventListener('error',()=>{
+   box.innerHTML=`<div class="videoUnavailable">No se pudo cargar este MP4.<br><small>${esc(name)}</small></div>`;
+ },{once:true});
+ const p=v.play();
+ if(p&&p.catch) p.catch(()=>{});
+}
+
 async function loadHDManifest(){
  try{
    const r=await fetch('hd_manifest.json?v='+Date.now(),{cache:'no-store'});
@@ -143,14 +224,11 @@ function embeddedImageForName(name){
 function topMedia(a){
  const isVideo=a.format.includes('Video');
  const c=DATA.creatives.find(x=>x.ad_name===a.tech);
- const hdPoster=c?hdImageUrl(c):'';
- const embeddedPoster=embeddedImageForName(a.tech);
- const poster=hdPoster || embeddedPoster || a.thumbnail || '';
+ const poster=c?bestPoster(c):(a.thumbnail||'');
  if(isVideo && c){
-   const vm=videoMarkup(c,poster,'');
-   if(vm) return `<div class="topmedia"><span class="rank">#${a.rank}</span>${vm}</div>`;
+   return `<div class="topmedia"><span class="rank">#${a.rank}</span>${lazyVideoMarkup(c,poster,'')}</div>`;
  }
- const src=poster;
+ const src=(c&&bestOriginalImage(c)) || hdImageUrl(c||{}) || a.thumbnail || embeddedImageForName(a.tech) || '';
  const play=isVideo?'<span class="play">▶</span>':'';
  const link=a.url?`<a href="${esc(a.url)}" target="_blank" rel="noopener" style="position:absolute;inset:0;z-index:4" aria-label="Abrir original"></a>`:'';
  return `<div class="topmedia"><span class="rank">#${a.rank}</span>${src?`<img src="${esc(src)}" alt="${esc(a.title)}">`:'<div class="missing">Sin preview</div>'}${play}${link}</div>`;
@@ -275,20 +353,17 @@ function releaseVideoUrl(file){
 function media(c){
  const a=c.assets&&c.assets[0];
  const hd=hdImageUrl(c);
+ const original=bestOriginalImage(c);
  const imageFiles=allImageFiles(c);
  const embeddedImages=imageFiles.map(embeddedImageUrl).filter(Boolean);
- const poster=hd || embeddedImages[0] || (a?(a.thumbnail||''):'');
+ const poster=hd || original || embeddedImages[0] || (a?(a.thumbnail||''):'');
 
  if(c.type==='Video/Reel'){
-   const vm=videoMarkup(c,poster,'<span class="videoTag">MP4</span>');
-   if(vm) return vm;
-   if(hd) return `<img loading="lazy" src="${esc(hd)}" alt="${esc(c.ad_name)}"><span class="videoTag">Preview video</span><span class="videoPlay">▶</span>`;
-   if(embeddedImages.length) return `<img loading="lazy" src="${embeddedImages[0]}" alt="${esc(c.ad_name)}"><span class="videoTag">Preview video</span><span class="videoPlay">▶</span>`;
-   if(a&&a.thumbnail) return `<img loading="lazy" src="${esc(a.thumbnail)}" alt="${esc(c.ad_name)}"><span class="videoTag">VIDEO</span><span class="videoPlay">▶</span>`;
-   return `<div class="missing">Sin preview asociado todavía<br><b>${esc(c.type)}</b></div>`;
+   return lazyVideoMarkup(c,poster,'<span class="videoTag">MP4</span>');
  }
 
  if(hd) return `<img loading="lazy" src="${esc(hd)}" alt="${esc(c.ad_name)}">`;
+ if(original) return `<img loading="lazy" src="${esc(original)}" alt="${esc(c.ad_name)}">`;
  if(embeddedImages.length){
    const badge=embeddedImages.length>1?`<span class="videoTag">${embeddedImages.length} imágenes</span>`:'';
    return `<img loading="lazy" src="${embeddedImages[0]}" alt="${esc(c.ad_name)}">${badge}`;
